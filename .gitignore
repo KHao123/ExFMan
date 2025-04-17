@@ -1,0 +1,8 @@
+*.pyc
+dataset
+dataset/
+experiments
+experiments/
+slurm_out
+slurm_out/
+*.pkl
